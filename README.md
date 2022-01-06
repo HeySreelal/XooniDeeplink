@@ -1,16 +1,7 @@
-# xoonideeplink
+# XooniDeeplink
 
-A new Flutter project.
+A test flight for testing [Firebase Dynamic Link for Flutter](https://firebase.flutter.dev/docs/dynamic-links/overview). 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please follow the steps documented in [Dynamic Links](https://firebase.flutter.dev/docs/dynamic-links/usage) page to get started.
